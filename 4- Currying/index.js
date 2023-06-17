@@ -1,6 +1,7 @@
 /*
 currying is a technique that allows us to take a FCT that have N ARGS to a single ARG
 N => 1
+[#] - https://miro.medium.com/v2/resize:fit:557/1*aTHu_4UDNiKH-0S_fu-Ddg.png
 */
 
 function addOld(a, b) {
